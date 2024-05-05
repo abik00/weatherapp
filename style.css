@@ -10,7 +10,7 @@ body{
 .card{
     width: 90%;
      max-width: 470px;
-     background-color:#71f3df;
+     background-color:color-mix(in oklab, #2deec4, #25bb07 49%);
      color:#fff;
      margin: 100px auto 0;
      border-radius: 20px;
